@@ -1,0 +1,23 @@
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+.vscode/
+
+# Данные (генерируются при запуске)
+data/*.xlsx
+data/*.csv
+data/*.json
+!data/.gitkeep
+
+# Системное
+.DS_Store
+Thumbs.db

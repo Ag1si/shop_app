@@ -59,3 +59,13 @@ python -m unittest discover tests -v
 ## Автор
 
 Ag1si — итоговая аттестация по Python, 2026
+## Скриншоты
+
+### Клиенты
+![Клиенты](screenshots/clients.png)
+
+### Заказы
+![Заказы](screenshots/orders.png)
+
+### Анализ — топ-5 клиентов
+![Анализ](screenshots/analysis.png)
